@@ -1,6 +1,7 @@
 package solutionPackage;
 import java.util.*;
 
+// 정답(시간 초과 해결)
 public class Solution_42626_priorityQueue {
     public int solution(int[] scoville, int K) {
         PriorityQueue<Integer> scv = new PriorityQueue<Integer>();
