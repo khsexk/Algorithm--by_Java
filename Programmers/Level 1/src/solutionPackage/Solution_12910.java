@@ -1,5 +1,6 @@
 package solutionPackage;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Solution_12910 {
     public int[] solution(int[] arr, int divisor) {
