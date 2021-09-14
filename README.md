@@ -6,7 +6,7 @@
 
 * ##### 2021.08.07 Level2. Start
 
-https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_17686.java
+
 |Level|Quiz No|Quiz|
 |-----|-------|----|
 |2|12909|[올바른 괄호](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_12909.java)|
