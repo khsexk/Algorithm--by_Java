@@ -1,11 +1,6 @@
-### *Programmers Solution by Java*
+### *Java 코딩문제 Solution*
 
-* ##### 2021.07.25 Level1. Start
-
-* ##### 2021.08.05 Level1. Finish
-
-* ##### 2021.08.07 Level2. Start
-
+* ##### 프로그래머스 Solution (Java)
 
 |Level|Quiz No|Quiz|
 |-----|-------|----|
@@ -20,3 +15,8 @@
 |2|42586|[기능개발](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42586.java)|
 |2|42587|[프린터](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42587.java)|
 |2|42626|[더 맵게](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42626_priorityQueue.java)|
+
+* ##### BOJ Solution (Java)
+* |Level|Quiz No|Quiz|
+|-----|-------|----|
+|2|12909|[올바른 괄호](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_12909.java)|
