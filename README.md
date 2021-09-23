@@ -19,4 +19,4 @@
 * ##### BOJ Solution (Java)
 |About|Tier|Quiz No|Quiz|
 |-----|----|-------|----|
-|Array|BronzeII|10808|[알파벳 개수](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/BOJ/src/Array/BOJ_10808.java)|
+|Array|Bronze II|10808|[알파벳 개수](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/BOJ/src/Array/BOJ_10808.java)|
