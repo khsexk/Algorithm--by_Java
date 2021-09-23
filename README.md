@@ -17,6 +17,6 @@
 |2|42626|[더 맵게](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42626_priorityQueue.java)|
 
 * ##### BOJ Solution (Java)
-* |Level|Quiz No|Quiz|
-|-----|-------|----|
-|2|12909|[올바른 괄호](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_12909.java)|
+|About|Tier|Quiz No|Quiz|
+|-----|----|-------|----|
+|Array|BronzeII|10808|[알파벳 개수](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/BOJ/src/Array/BOJ_10808.java)|
