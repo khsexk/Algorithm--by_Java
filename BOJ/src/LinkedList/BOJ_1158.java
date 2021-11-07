@@ -26,8 +26,6 @@ public class BOJ_1158 {
 				sb.append(", ");
 			}
 		}
-		
 		System.out.println(sb.append(">").toString());
 	}
-
 }
