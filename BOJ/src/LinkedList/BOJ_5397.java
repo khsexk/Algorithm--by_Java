@@ -1,46 +1,45 @@
 package LinkedList;
 import java.util.*;
+import java.io.*;
 
-// 시간초과 Solution
 public class BOJ_5397 {
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		String Num = sc.nextLine();
-		int N = Integer.parseInt(Num);
-		String[] sArray = new String[N];
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
-		for(int i=0 ; i<N ; i++) 
-			sArray[i] = sc.nextLine();
+		int N = Integer.parseInt(br.readLine());
 		
-		for(String s : sArray) {
+		for(int i=0 ; i<N ; i++) {
+			String s = br.readLine();
+			
 			LinkedList<Character> list = new LinkedList<Character>();
-			int idx = 0;
+			ListIterator<Character> listIter = list.listIterator();
 			
 			for(int j=0 ; j<s.length() ; j++) {
 				switch(s.charAt(j)) {
 					case '<':
-						if(idx != 0) idx--;
+						if(listIter.hasPrevious()) listIter.previous();
 						break;
 					case '>':
-						if(idx!=list.size()) idx++;
+						if(listIter.hasNext()) listIter.next();
 						break;
 					case '-':
-						if(idx!=0) {
-							list.remove(idx-1);
-							idx--;
+						if(listIter.hasPrevious()) {
+							listIter.previous();
+							listIter.remove();
 						}
 						break;
 					default:
-						list.add(idx, s.charAt(j));
-						idx++;
+						listIter.add(s.charAt(j));
 						break;
 				}
 			}
-			StringBuilder sb = new StringBuilder();
 			
-			for(int z=0; z< list.size();z++)
-				sb.append(list.get(z));
-			System.out.println(sb);
+			for(char c: list)
+				bw.write(c);
+			bw.write("\n");
 		}
+		bw.flush();
+		bw.close();
 	}
 }
