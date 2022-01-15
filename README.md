@@ -12,11 +12,15 @@
 |2|17686|[파일명 정렬](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_17686.java)|
 |2|17687|[n진수 게임](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_17687.java)|
 |2|42577|[전화번호 목록](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42577.java)|✔(해시)|
+|2|42583|[다리를 지나는 트럭](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42583.java)|✔(스택&큐)|
 |2|42586|[기능개발](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42586.java)|✔(스택&큐)|
 |2|42587|[프린터](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42587.java)|✔(스택&큐)|
 |2|42626|[더 맵게](https://github.com/khsexk/Programmers_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42626_priorityQueue.java)|
 |2|42746|[가장 큰 수](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42746.java)|✔(정렬)|
 |2|42747|[H-Index](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42747.java)|✔(정렬)|
+
+
+
 
 * ##### BOJ Solution (Java)
 |About|Tier|Quiz No|Quiz|
