@@ -37,7 +37,7 @@
 |30|17681|[비밀지도](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_17681.java)|
 |31|17682|[다트게임](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_17682.java)|
 |32|42748|[K번째 수](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_42748.java)|✔(해시)|
-|33|42862|[체육복](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_42862.java]|✔(그리디)|
+|33|42862|[체육복](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_42862.java)|✔(그리디)|
 |34|42889|[실패율](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_42889.java)|
 |35|64061|[크레인 인형뽑기 게임](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_64061.java)|
 |36|67256|[키보드 누르기](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_67256.java)|
@@ -47,7 +47,7 @@
 |40|72401|[신규 아이디 추천](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_72401.java)|
 |41|76501|[음양 더하기](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_76501.java)|
 |42|77484|[로또의 최고 순위와 최저 순위](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_77484.java)|
-|43|82612|[부족한 금액 계산하기](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_82612.java]|
+|43|82612|[부족한 금액 계산하기](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_82612.java)|
 |44|87389|[나머지가 1이 되는 수](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%201/src/solutionPackage/Solution_87389.java)|
   
 </br> 
