@@ -79,5 +79,3 @@ class Flower implements Comparable<Flower>{
 /*
 처음부터 깔끔하게 정리해서(모든 예외 테스트케이스) 풀자,,,
 */
-		bw.close();깔
-		bw.close();
