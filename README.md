@@ -72,6 +72,7 @@
 |14|42746|[가장 큰 수](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42746.java)|✔(정렬)|
 |15|42747|[H-Index](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42747.java)|✔(정렬)|
 |16|42839|[소수 찾기](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42839.java)|✔(완전탐색)|
+|17|42842|[카펫](https://github.com/khsexk/Algorithm_Solution--Java/blob/main/Programmers/Level%202/src/solutionPackage/Solution_42842.java)|✔(완전탐색)|
   
 * * *  
 </br>  
