@@ -72,4 +72,3 @@ public class BOJ_18352 {
 		} // while
 	}
 }
-\
